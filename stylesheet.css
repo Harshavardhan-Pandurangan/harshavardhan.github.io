@@ -115,6 +115,7 @@ body {
 
 .journey {
     background-image: linear-gradient(to right, #ff7300df, #ff73009f);
+    text-align: justify;
 }
 
 .journey-content {

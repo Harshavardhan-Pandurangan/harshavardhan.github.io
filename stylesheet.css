@@ -23,6 +23,7 @@ body {
     padding: 2vw;
     display: flex;
     box-shadow: 0px 0px 20px rgb(101, 101, 101);
+    height: calc(fit-content - 2vw);
 }
 
 .header {
